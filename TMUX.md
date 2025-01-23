@@ -1,5 +1,13 @@
 # tmux
 
+## Configure
+
+You need xclip installed for Tmux to access the system clipboard.
+
+```bash
+sudo apt install xclip
+```
+
 https://tmuxcheatsheet.com/
 
 List sessions
